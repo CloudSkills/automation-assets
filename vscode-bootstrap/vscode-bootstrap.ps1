@@ -1,0 +1,9 @@
+code --install-extension 'wilfriedwoivre.arm-params-generator';
+code --install-extension 'bencoleman.armview';
+code --install-extension 'msazurermtools.azurerm-vscode-tools';
+code --install-extension 'samcogan.arm-snippets';
+code --install-extension 'ms-vscode.azure-account';
+code --install-extension 'ms-azuretools.vscode-azurefunctions';
+code --install-extension 'docsmsft.docs-markdown';
+code --install-extension 'docsmsft.docs-authoring-pack';
+code --install-extension 'ms-azure-devops.azure-pipelines';
